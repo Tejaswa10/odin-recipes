@@ -1,0 +1,1 @@
+This project is part of The Odin Project's Foundations curriculum. It is a basic website that contains a list of recipes, each linking to its own page.
